@@ -1,0 +1,5 @@
+{
+  "platform_config": {
+    "datadog_log_subscription_arn":"1234"
+  }
+}
